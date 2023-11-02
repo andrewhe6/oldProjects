@@ -1,8 +1,3 @@
-// Andrew He
-// January 9, 2022
-// Period 3
-// CS50 Unit Project: Checkers
-
 // SCOPE - libraries
 #include <cs50.h>
 #include <stdio.h>
